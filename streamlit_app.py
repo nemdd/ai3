@@ -4,7 +4,7 @@ from io import BytesIO
 import numpy as np
 import streamlit as st
 from PIL import Image, ImageOps
-from fastai.vision.all import
+from fastai.vision.all import *
 import gdown
 
 # ======================
